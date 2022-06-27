@@ -1,12 +1,12 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyDwsMe2DAn14vr9d9ELX0ArUZBi73nCEio",
-    authDomain: "facerecognitionproject-264cc.firebaseapp.com",
-    databaseURL: "https://facerecognitionproject-264cc-default-rtdb.firebaseio.com",
+    apiKey: "********************************",
+    authDomain: "********************************************",
+    databaseURL: "*******************************************",
     projectId: "facerecognitionproject-264cc",
     storageBucket: "facerecognitionproject-264cc.appspot.com",
-    messagingSenderId: "549937822436",
-    appId: "1:549937822436:web:ae6ab7d2f0e501bd674af1",
-    measurementId: "G-SCJ3HM2JCG"
+    messagingSenderId: "******************",
+    appId: "1:****************:web:ae6ab7d2***********74af1",
+    measurementId: "**************"
     };
   
   // initialize firebase
